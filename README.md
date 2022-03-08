@@ -27,6 +27,7 @@
     
    
  
-  ![Snake animation](https://https://github.com/Manellacanela)
+ ![Snake animation](https://github.com/Manellacanela/Manellacanela/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>

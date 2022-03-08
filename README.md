@@ -16,6 +16,8 @@
   <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/de/a5/d7/dea5d7711700b2acf0f8e20b3352dba7.gif">
 </div>
 
+<p>---</p>
+
   <div> 
   <a href="https://open.spotify.com/user/12171871597" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://instagram.com/manellacanela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

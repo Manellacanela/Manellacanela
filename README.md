@@ -7,6 +7,7 @@
  <p> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Manellacanela&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manellacanela&layout=compact&langs_count=7&theme=synthwave"/>
 </div> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manellacanela-f&theme=synthwave&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

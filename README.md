@@ -1,6 +1,7 @@
 ### Alouuu, bem vinde ao meu perfil 🦇 // Hiii, welcome to my profile 🦇
 
 
+## ▨GitHub status:
 
 <div align="center">
   <a href="https://github.com/Manellacanela">
@@ -13,6 +14,9 @@
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manellacanela&theme=synthwave&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
 </div>
+
+
+##
 
 
   

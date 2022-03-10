@@ -1,13 +1,19 @@
 ### Alouuu, bem vinde ao meu perfil 🦇
 
-
+##
 
 <div align="center">
   <a href="https://github.com/Manellacanela">
  <p> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Manellacanela&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manellacanela&layout=compact&langs_count=7&theme=synthwave"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manellacanela-f&theme=synthwave&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
+ 
 </div> </p>
+##
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manellacanela&theme=synthwave&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
+</div>
+##
 
   
   <div style="display: inline_block"><br>
@@ -18,7 +24,7 @@
   <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/de/a5/d7/dea5d7711700b2acf0f8e20b3352dba7.gif">
 </div>
 
-<p>---</p>
+##
 
   <div> 
   <a href="https://open.spotify.com/user/12171871597" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>

@@ -40,7 +40,7 @@
   <a href = "mailto:manuella.balbino@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"_blank"></a>
   <a href="https://www.linkedin.com/in/manuella-balestrero-braga-balbino-46377720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ##
+
    
  
  ![Snake animation](https://github.com/Manellacanela/Manellacanela/blob/output/github-contribution-grid-snake.svg)

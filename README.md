@@ -24,8 +24,8 @@
    <img align="center" alt="Manu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Manu-React" height="30" width="40" src="https://img1.gratispng.com/20180619/qpg/kisspng-node-js-javascript-express-js-npm-react-5b28f983dd4a03.6121702115294119719064.jpg">
-  <img align="center" alt="Manu-Node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+   <img align="center" alt="Manu-Node" height="30" width="40" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
+  <img align="center" alt="Manu-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="Manu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/de/a5/d7/dea5d7711700b2acf0f8e20b3352dba7.gif">
 </div>

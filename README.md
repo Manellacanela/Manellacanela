@@ -1,4 +1,4 @@
-### Alouuu, bem vinde ao meu perfil 🦇 // Hiii, welcome to my profile 🦇
+### Alouuu, bem vinde ao meu perfil! 🦇 // Hiii, welcome to my profile! 🦇
 
 
 ## ▨GitHub status:

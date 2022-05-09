@@ -26,6 +26,7 @@
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Manu-Node" height="30" width="40" src="https://img2.gratispng.com/20180505/gow/kisspng-node-js-javascript-software-developer-software-dep-beginning-5aee08550e81a6.6353902015255491410594.jpg">
   <img align="center" alt="Manu-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align= "center" alt = "Manu-ThreeJS" height= "30" width= "40" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"> 
   <img align="center" alt="Manu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Godot" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png">
   <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/de/a5/d7/dea5d7711700b2acf0f8e20b3352dba7.gif">

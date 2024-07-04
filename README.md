@@ -1,4 +1,4 @@
-### Alouuu, bem vinde ao meu perfil! 🦇 // Hiii, welcome to my profile! 🦇
+### Oie, eu sou a Manu, designer aspirante a programadora. Bem Vinde! 🦇🦇
 
 
 ## ▨GitHub status:
